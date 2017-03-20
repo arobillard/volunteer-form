@@ -26,10 +26,14 @@ fieldset {
 
 hr {
   border-color: #70ad55;
-  opacity: .5;
+  opacity: .25;
 }
 
 .btn-green {
   background-color: #6e8c62;
   border-color: #6e8c62;
+}
+
+textarea {
+  height: 10em;
 }
